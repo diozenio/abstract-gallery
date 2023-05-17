@@ -1,4 +1,4 @@
-import GalleryPage from "../components/GalleryPage";
+import GalleryPage from "../components/Gallery/GalleryPage";
 import "./global.scss";
 
 function App() {
