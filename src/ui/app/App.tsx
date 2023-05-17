@@ -1,5 +1,5 @@
 import GalleryPage from "../components/GalleryPage";
-import "./App.css";
+import "./global.scss";
 
 function App() {
   return <GalleryPage />;
