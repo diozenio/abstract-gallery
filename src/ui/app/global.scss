@@ -5,3 +5,22 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-color: #121214;
+  margin: 0rem;
+  overflow: hidden;
+  background-image: url("src/assets/img-noise.png");
+  background-repeat: repeat;
+  color: #fff;
+  font-family: "Hepta Slab", serif;
+  font-size: 48px;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 32px;
+  }
+}
